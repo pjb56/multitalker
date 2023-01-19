@@ -1,4 +1,4 @@
-![ (c) Can Stock Photo www.canstockphoto.com / coraMax.  Used with permission. ](canstockphoto8149776.jpg)
+<img alt="Can Stock Photo www.canstockphoto.com / coraMax.  Used with permission." src="canstockphoto8149776.jpg" width="40%"/>
 
 # Multi-talker methods in Speech Processing
 ## Special sesssion at [Interspeech 2023](https://www.interspeech2023.org) 
