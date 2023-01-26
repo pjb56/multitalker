@@ -1,3 +1,7 @@
+gems:
+  - jekyll-seo-tag
+  
 name: Multi-talker methods in Speech Processing
 title: null
 description: Multi-talker methods in Speech Processing -- Interspeech Special session
+logo: canstockphoto8149776.jpg
