@@ -41,7 +41,8 @@ Papers must be submitted by 1 March 2023, but updates are permitted up until 8 M
 ### Organising team
 
 Peter Bell, University of Edinburgh, UK   
-Michael Akeroyd, University of Nottingham, UK  
+Michael Akeroyd, University of Nottingham, UK 
+Jon Barker, University of Sheffield, UK
 Marc Delcroix, NTT, Japan  
 Liang Lu, Otter.ai, USA  
 Jonathan Le Roux, MERL, USA  
