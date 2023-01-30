@@ -14,6 +14,7 @@ There are a great many unsolved research questions in the area that we believe w
 * What gaps remain between human and machine listening in a cocktail party situation?
 * How important is lip-reading and location awareness in computational auditory scene understanding?
 * How can we most effectively evaluate enhancement methods considering human perception and recent advances on automatic intelligibility/quality prediction?
+
 This session won’t solve these problems, but might bring together researchers who can.   
 
 We welcome submissions on many different topics, including, but not limited to:
@@ -42,7 +43,7 @@ Papers must be submitted by 1 March 2023, but updates are permitted up until 8 M
 
 Peter Bell, University of Edinburgh, UK   
 Michael Akeroyd, University of Nottingham, UK 
-Jon Barker, University of Sheffield, UK
+Jon Barker, University of Sheffield, UK 
 Marc Delcroix, NTT, Japan  
 Liang Lu, Otter.ai, USA  
 Jonathan Le Roux, MERL, USA  
